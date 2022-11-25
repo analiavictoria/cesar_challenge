@@ -33,13 +33,13 @@ pagination.click()
 sleep (5)
 third_article = driver.find_element(By.ID, 'post-65915')
 title = third_article.find_element(By.XPATH, '/html/body/div[1]/div/div/div/main/div/article[3]/div/div/header/h2/a')
-print(title.text)
+print("Título do terceiro post:" + title.text)
 
 date = third_article.find_element(By.XPATH,'//*[@id="post-65937"]/div/div/div[1]/a/div/span/time[1]')
 date_published = date.get_dom_attribute("datetime")
-print(date_published)
+print("Data do terceiro post:" + date_published)
 
 #2nd article: exhibit author's name
 second_article = driver.find_element(By.ID, 'post-65937')
 author = second_article.find_element(By.CLASS_NAME,'author-name')
-print(author.text)
+print("Autor do segundo post:" + author.text)
