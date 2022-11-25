@@ -1,0 +1,457 @@
+1669342321754	geckodriver	INFO	Listening on 127.0.0.1:51037
+1669342324834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51038" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile3Tv6mE"
+1669342325195	Marionette	INFO	Marionette enabled
+1669342325202	Marionette	INFO	Listening on port 51047
+Read port: 51047
+WebDriver BiDi listening on ws://127.0.0.1:51038
+1669342325387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile3Tv6mE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51038/devtools/browser/badc64ca-fe7d-4392-a5fa-3391b3caa21a
+1669342356913	Marionette	INFO	Stopped listening on port 51047
+[Parent 9516, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669342360157	geckodriver	INFO	Listening on 127.0.0.1:51151
+1669342363239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile7R7XJn"
+1669342363950	Marionette	INFO	Marionette enabled
+1669342363957	Marionette	INFO	Listening on port 51161
+Read port: 51161
+WebDriver BiDi listening on ws://127.0.0.1:51152
+1669342364340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile7R7XJn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51152/devtools/browser/8cbd02de-77c0-469e-9427-117706b883b4
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669342653771	Marionette	INFO	Stopped listening on port 51161
+ors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile4kxQPl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51279/devtools/browser/700d1f9f-c7b3-4c5a-b256-173d9ae59975
+1669342565217	Marionette	INFO	Stopped listening on port 51288
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669342581279	geckodriver	INFO	Listening on 127.0.0.1:51396
+1669342584356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile9kr8Rw"
+1669342585335	Marionette	INFO	Marionette enabled
+1669342585355	Marionette	INFO	Listening on port 51406
+Read port: 51406
+WebDriver BiDi listening on ws://127.0.0.1:51397
+1669342585989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile9kr8Rw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51397/devtools/browser/6aea4d99-0ad8-4dcf-8d52-09c5396b3b57
+1669342614855	Marionette	INFO	Stopped listening on port 51406
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669342617421	geckodriver	INFO	Listening on 127.0.0.1:51494
+1669342620511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilecvy9jw"
+1669342621827	Marionette	INFO	Marionette enabled
+1669342621842	Marionette	INFO	Listening on port 51505
+Read port: 51505
+WebDriver BiDi listening on ws://127.0.0.1:51495
+1669342622594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilecvy9jw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51495/devtools/browser/52daa7d4-cdd7-46a9-bff0-495de76f5d0a
+1669342652428	Marionette	INFO	Stopped listening on port 51505
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile9CTbEs"
+1669342649221	Marionette	INFO	Marionette enabled
+1669342649232	Marionette	INFO	Listening on port 51593
+Read port: 51593
+WebDriver BiDi listening on ws://127.0.0.1:51584
+1669342649678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile9CTbEs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51584/devtools/browser/b2b16aab-f39b-4823-a4e2-4ddb9a8cd345
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.error: "Unable to find target with innerWindowId:4294967298"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundEconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileBMva1Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51721/devtools/browser/388b2daa-24c1-443c-82af-ca72dc8c9bd2
+1669342728214	Marionette	INFO	Stopped listening on port 51733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+1669342725102	Marionette	INFO	Stopped listening on port 51593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669342732399	geckodriver	INFO	Listening on 127.0.0.1:51794
+1669342735485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileCltwvy"
+1669342736577	Marionette	INFO	Marionette enabled
+1669342736588	Marionette	INFO	Listening on port 51804
+Read port: 51804
+WebDriver BiDi listening on ws://127.0.0.1:51795
+1669342737042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileCltwvy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51795/devtools/browser/8576a3fa-275b-4040-a59f-382ee0f8d642
+1669343039423	Marionette	INFO	Stopped listening on port 51804
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669343137264	geckodriver	INFO	Listening on 127.0.0.1:51985
+1669343140351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51986" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilesFQgHM"
+1669343140646	Marionette	INFO	Marionette enabled
+1669343140651	Marionette	INFO	Listening on port 51995
+Read port: 51995
+WebDriver BiDi listening on ws://127.0.0.1:51986
+1669343140784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilesFQgHM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51986/devtools/browser/b975474e-2310-4cde-b1b3-915cdc55e672
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669343551328	Marionette	INFO	Stopped listening on port 51995
+ndError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilesoxysR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52120/devtools/browser/f8236658-f1b8-4ac2-a830-5a5e95495e72
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669343549618	Marionette	INFO	Stopped listening on port 52129
+ors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilec5O89k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52294/devtools/browser/2ed423f6-7f8b-4895-a955-4dea4c32cb52
+1669343546364	Marionette	INFO	Stopped listening on port 52305
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669343556292	geckodriver	INFO	Listening on 127.0.0.1:52404
+1669343559370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileS9XNNl"
+1669343559859	Marionette	INFO	Marionette enabled
+1669343559863	Marionette	INFO	Listening on port 52414
+Read port: 52414
+WebDriver BiDi listening on ws://127.0.0.1:52405
+1669343559998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileS9XNNl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52405/devtools/browser/918c5c59-e6cc-4f6d-ba5d-be0bcb2e5ec0
+1669343890202	Marionette	INFO	Stopped listening on port 52414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52518" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile2FRV63"
+1669343619171	Marionette	INFO	Marionette enabled
+1669343619175	Marionette	INFO	Listening on port 52527
+Read port: 52527
+WebDriver BiDi listening on ws://127.0.0.1:52518
+1669343619317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile2FRV63\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52518/devtools/browser/e27bc7e8-ba4f-46b7-89f9-be441cd882b6
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669343888761	Marionette	INFO	Stopped listening on port 52527
+ors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile7OkmWF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52686/devtools/browser/f13f36eb-edd3-4441-9c59-7de14161c905
+1669343803410	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669343815651	Marionette	INFO	Stopped listening on port 52695
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669343835139	geckodriver	INFO	Listening on 127.0.0.1:52798
+1669343838204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilejNkoto"
+1669343838487	Marionette	INFO	Marionette enabled
+1669343838491	Marionette	INFO	Listening on port 52808
+Read port: 52808
+WebDriver BiDi listening on ws://127.0.0.1:52799
+1669343838627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilejNkoto\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52799/devtools/browser/ae0f8db4-2316-4807-9c1e-b776a827bccb
+1669343891483	Marionette	INFO	Stopped listening on port 52808
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileyP7fcu"
+1669343887990	Marionette	INFO	Marionette enabled
+1669343887994	Marionette	INFO	Listening on port 52948
+Read port: 52948
+WebDriver BiDi listening on ws://127.0.0.1:52939
+1669343888154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileyP7fcu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52939/devtools/browser/5ab4eca2-9fef-4e68-a2b4-434af8ae0cf5
+1669343900255	Marionette	INFO	Stopped listening on port 52948
+1669344519828	geckodriver	INFO	Listening on 127.0.0.1:53327
+1669344522902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile7zZdKw"
+1669344523209	Marionette	INFO	Marionette enabled
+1669344523213	Marionette	INFO	Listening on port 53339
+Read port: 53339
+WebDriver BiDi listening on ws://127.0.0.1:53328
+1669344523344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile7zZdKw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53328/devtools/browser/df710b92-765b-4ade-888c-dd39d3894238
+1669344534670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669344570508	Marionette	INFO	Stopped listening on port 53339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669344574127	geckodriver	INFO	Listening on 127.0.0.1:53473
+1669344577206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileRBQ9ab"
+1669344577617	Marionette	INFO	Marionette enabled
+1669344577622	Marionette	INFO	Listening on port 53486
+Read port: 53486
+WebDriver BiDi listening on ws://127.0.0.1:53474
+1669344577797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileRBQ9ab\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53474/devtools/browser/430270be-a7aa-4a4b-9fb4-0e7c98185dca
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669344840325	Marionette	INFO	Stopped listening on port 53486
+ors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileamsMoA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53675/devtools/browser/3fb931e2-bde1-431e-a205-ddeb059c3e17
+1669344752722	Marionette	INFO	Stopped listening on port 53686
+1669344788726	geckodriver	INFO	Listening on 127.0.0.1:53811
+1669344791797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilepnD8CJ"
+1669344792075	Marionette	INFO	Marionette enabled
+1669344792079	Marionette	INFO	Listening on port 53823
+Read port: 53823
+WebDriver BiDi listening on ws://127.0.0.1:53812
+1669344792211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilepnD8CJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53812/devtools/browser/4d81cef2-fda4-45f4-bd66-6b0660ef27f6
+1669344841276	Marionette	INFO	Stopped listening on port 53823
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669344884226	geckodriver	INFO	Listening on 127.0.0.1:53925
+1669344887306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53926" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileyneQNv"
+1669344887593	Marionette	INFO	Marionette enabled
+1669344887598	Marionette	INFO	Listening on port 53936
+Read port: 53936
+WebDriver BiDi listening on ws://127.0.0.1:53926
+1669344887735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileyneQNv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53926/devtools/browser/c653ef6b-8af9-4e42-a85a-b9e62ad22dfa
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1669345159244	geckodriver	INFO	Listening on 127.0.0.1:54188
+1669345162320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileaCslOd"
+1669345162601	Marionette	INFO	Marionette enabled
+1669345162605	Marionette	INFO	Listening on port 54199
+Read port: 54199
+WebDriver BiDi listening on ws://127.0.0.1:54189
+1669345162737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileaCslOd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54189/devtools/browser/fb736f0f-8c8c-4471-8b64-ab5b01a654e5
+1669346065124	Marionette	INFO	Stopped listening on port 54199
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilekFeJDo"
+1669345452721	Marionette	INFO	Marionette enabled
+1669345452726	Marionette	INFO	Listening on port 54483
+Read port: 54483
+WebDriver BiDi listening on ws://127.0.0.1:54472
+1669345452866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofilekFeJDo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54472/devtools/browser/68b027fd-e0ae-48f1-ba3e-58ffd54accc0
+1669346029418	geckodriver	INFO	Listening on 127.0.0.1:49683
+1669346032508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile705t6i"
+1669346033009	Marionette	INFO	Marionette enabled
+1669346033014	Marionette	INFO	Listening on port 49696
+Read port: 49696
+WebDriver BiDi listening on ws://127.0.0.1:49684
+1669346033160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile705t6i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49684/devtools/browser/07ab3f10-da1e-4f11-ac5b-ab3ed372d5cb
+1669346055509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669346109140	geckodriver	INFO	Listening on 127.0.0.1:49908
+1669346112218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileHb49gn"
+1669346112511	Marionette	INFO	Marionette enabled
+1669346112515	Marionette	INFO	Listening on port 49920
+Read port: 49920
+WebDriver BiDi listening on ws://127.0.0.1:49909
+1669346112672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileHb49gn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49909/devtools/browser/aa9329ad-bbe4-4ee3-8625-2d69cafd15b1
+1669346377397	Marionette	INFO	Stopped listening on port 49920
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileEosfXu"
+1669346355889	Marionette	INFO	Marionette enabled
+1669346355893	Marionette	INFO	Listening on port 54907
+Read port: 54907
+WebDriver BiDi listening on ws://127.0.0.1:54896
+1669346356027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileEosfXu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54896/devtools/browser/0d7dfd7b-c53e-4de7-b1bd-b52b8bc4f986
+1669346367879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669346376088	Marionette	INFO	Stopped listening on port 54901669346376265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileKD9gYw"
+1669346376688	Marionette	INFO	Marionette enabled
+1669346376694	Marionette	INFO	Listening on port 55034
+Read port: 55034
+WebDriver BiDi listening on ws://127.0.0.1:55021
+1669346376847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileKD9gYw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55021/devtools/browser/6e54b408-d164-4b4f-b027-9abe7eebb0cd
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669346972538	Marionette	INFO	Stopped listening on port 55034
+ors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileh02i7a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55229/devtools/browser/b1272a68-ccee-4fe3-92ac-7353f7607e26
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669346975769	Marionette	INFO	Stopped listening on port 55238
+ors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileDQD78n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55385/devtools/browser/1dba46cf-4f0f-46b8-93de-49924fed8da2
+1669346787163	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1669346977026	Marionette	INFO	Stopped listening on port 55394
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile9ZM8HU"
+1669346823237	Marionette	INFO	Marionette enabled
+1669346823252	Marionette	INFO	Listening on port 55514
+Read port: 55514
+WebDriver BiDi listening on ws://127.0.0.1:55505
+1669346823487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofile9ZM8HU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55505/devtools/browser/40765d2d-bb99-4fd9-b1af-a2f951529d0b
+1669346978259	Marionette	INFO	Stopped listening on port 55514
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669347023998	geckodriver	INFO	Listening on 127.0.0.1:55666
+1669347027052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileMA0se2"
+1669347027526	Marionette	INFO	Marionette enabled
+1669347027530	Marionette	INFO	Listening on port 55676
+Read port: 55676
+WebDriver BiDi listening on ws://127.0.0.1:55667
+1669347027677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Analia\\AppData\\Local\\Temp\\rust_mozprofileMA0se2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55667/devtools/browser/c6795191-f5ea-4de1-a39b-66835b4f7591
+1669347079731	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1669347359305	Marionette	INFO	Stopped listening on port 55676
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
